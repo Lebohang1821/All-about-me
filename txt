@@ -7,3 +7,53 @@ Hey there! I'm Joshua, a coding enthusiast and software engineer based in Johann
 - **Name**: Joshua
 - **Location**: Johannesburg, South Africa
 - **Profession/Role**: Coding and Software Engineer
+- **GitHub**: [Lebohang1821](https://github.com/Lebohang1821)
+
+## About Me
+I'm passionate about coding and building software solutions that make a positive impact. With a background in computer science and years of experience in software development, I enjoy tackling complex problems and turning ideas into reality. Outside of coding, you can find me exploring new technologies, playing video games, and enjoying the great outdoors.
+
+## Skills
+- Python
+- JavaScript
+- Java
+- SQL
+- HTML/CSS
+- React.js
+- Node.js
+- Git
+
+## Projects
+1. Project Name: Online Bookstore
+   - A web application for browsing and purchasing books online.
+   - Technologies: React.js, Node.js, MongoDB
+   - [GitHub Link](#)
+
+2. Project Name: Personal Portfolio Website
+   - My personal website showcasing my projects and skills.
+   - Technologies: HTML/CSS, JavaScript
+   - [GitHub Link](#)
+
+3. Project Name: Data Analysis Dashboard
+   - A dashboard for visualizing and analyzing large datasets.
+   - Technologies: Python, Pandas, Matplotlib
+   - [GitHub Link](#)
+
+## Contact Me
+- **Email**: [Your Email Address]
+- **LinkedIn**: [Your LinkedIn Profile URL]
+- **Twitter**: [Your Twitter Handle]
+- **Website/Blog**: [Your Website/Blog URL]
+
+## Contributions
+[If you've contributed to any open-source projects, list them here. Include the project name, your contributions, and any relevant links.]
+
+## Goals
+My current goal is to deepen my knowledge of machine learning and artificial intelligence and apply them to real-world projects.
+
+## Fun Facts
+- I speak three languages fluently: English, Zulu, and Afrikaans.
+- I'm an avid hiker and love exploring the mountains around Johannesburg.
+- I once participated in a hackathon and won the first prize for my team's project.
+
+## Let's Connect!
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat! I'm always open to meeting new people and collaborating on interesting projects.
