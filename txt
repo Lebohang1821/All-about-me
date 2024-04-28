@@ -1,2 +1,9 @@
-All about me.
-Talk to me nice
+# About Me
+
+## Introduction
+Hey there! I'm Joshua, a coding enthusiast and software engineer based in Johannesburg. Welcome to my GitHub!
+
+## Quick Overview
+- **Name**: Joshua
+- **Location**: Johannesburg, South Africa
+- **Profession/Role**: Coding and Software Engineer
