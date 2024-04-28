@@ -39,7 +39,7 @@ I'm deeply passionate about coding and software development. With a strong backg
    - [GitHub Link](#)
 
 ## Contact Me
-- **Email**: [Your Email Address]
+- **Email**: millboylebohang@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile URL]
 - **Twitter**: [Your Twitter Handle]
 - **Website/Blog**: [Your Website/Blog URL]
